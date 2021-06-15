@@ -1,2 +1,2 @@
 
-An example app buidling an API with Django REST framework
+An template API with Django REST framework to use on projects in general
